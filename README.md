@@ -4,7 +4,7 @@
 
   ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Étudiant+en+Génie+Logiciel+🎓;Développeur+Web;Web+and+Graphic+Designer)
   
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prosper-hedeka)
   [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Gilles11-r)
   [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+22879639211)
   
@@ -168,7 +168,7 @@ Jeu haute-vitesse développé en 60 minutes avec Cursor AI.
 
 ### Discutons de votre projet !
 
-[![Email](https://img.shields.io/badge/LinkedIn_Message-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/)
+[![Email](https://img.shields.io/badge/LinkedIn_Message-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/prosper-hedeka)
 [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/+22879639211)
 
 **Retrouvez-moi aussi sur :**

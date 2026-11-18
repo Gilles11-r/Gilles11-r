@@ -13,8 +13,8 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/prosper-hedeka"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-  <a href="mailto:TON_EMAIL@exemple.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
-  <a href="https://TON-PORTFOLIO.com"><img src="https://img.shields.io/badge/Portfolio-2E9EF7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
+  <a href="mailto:gilleshedeka@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://gilles11-r.github.io/My_Portfolio_supabase/"><img src="https://img.shields.io/badge/Portfolio-2E9EF7?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
 </p>
 
 ---
